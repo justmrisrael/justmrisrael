@@ -9,7 +9,7 @@
 
 <!-- ============================ BANNER ============================ -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Israel+Musa;Full-Stack+Developer;Building+framehealth.dev;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Israel+Musa;Full-Stack+Developer;Building+framehealth.app;Always+learning+something+new" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -24,7 +24,7 @@
 <!-- ============================ ABOUT ============================ -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-- 🔭 &nbsp;I'm currently building **[FrameHealth](https://framehealth.dev)**
+- 🔭 &nbsp;I'm currently building **[FrameHealth](https://framehealth.app)**
 - 🌐 &nbsp;More of my work lives at **[israelmusa.dev](https://israelmusa.dev)**
 - 💬 &nbsp;Ask me about **full-stack web development**
 - 📫 &nbsp;Reach me at **musaisrael5@outlook.com**
@@ -48,11 +48,11 @@
 <table>
   <tr>
     <td valign="top">
-      <h3>🩺 FrameHealth &nbsp;·&nbsp; <a href="https://framehealth.dev">framehealth.dev</a></h3>
+      <h3>🩺 FrameHealth &nbsp;·&nbsp; <a href="https://framehealth.app">framehealth.app</a></h3>
       <!-- TODO: replace this line with a one-sentence description of what FrameHealth does -->
       <p>A health-tech product I'm building — visit the site to see it live.</p>
       <p>
-        <a href="https://framehealth.dev"><img src="https://img.shields.io/badge/Visit%20Live%20Site-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit"/></a>
+        <a href="https://framehealth.app"><img src="https://img.shields.io/badge/Visit%20Live%20Site-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit"/></a>
       </p>
     </td>
   </tr>
